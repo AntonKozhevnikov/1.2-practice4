@@ -12,7 +12,7 @@ int bubble_sort(int arr[], int size){
             }
         }
     }
-    cout<<"Rezult mass: ";
+    cout<<"Rezult array: ";
     for (int i=0; i<size; i++){
             cout<<arr[i]<<" ";
     }
